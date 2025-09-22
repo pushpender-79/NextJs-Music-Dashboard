@@ -1,0 +1,19 @@
+{
+  "name": "music-dashboard-final",
+  "version": "1.0.0",
+  "description": "This is a mini music distribution dashboard built with Next.js as part of the frontend assessment.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.5.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
